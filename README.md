@@ -17,7 +17,7 @@ Situaciones:
 
 Solucion:
 
-Querarquia de las carpetas y ficheros:
+Querarquia de las carpetas y ficheros:<br>
 C:\xampp\htdocs\python\audio-to-text
 ├── video
 │   ├── video1.mp4
